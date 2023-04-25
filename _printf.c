@@ -6,7 +6,7 @@ void print_buffer(char buffer[], int *buff_ind);
 
 /**
 
- * _printf - formatted output conversion and print data.
+ * _printf - formatted output conversions and print data.
 
  * @format: format.
 
