@@ -5,7 +5,7 @@
 
  * is_printable - Evaluates if a char is printable
 
- * @c: Char to be evaluated.
+ * @c: Char to evaluate.
 
  *
 
@@ -73,7 +73,7 @@ int append_hexa_code(char ascii_code, char buffer[], int i)
 
  * is_digit - Verifies if a char is a digit
 
- * @c: Char to be evaluated
+ * @c: Char to evaluate.
 
  *
 
