@@ -9,7 +9,7 @@
 
  * @types: List a of arguments
 
- * @buffer: Buffer array to handle print
+ * @buffer: Buffer array to any printed char
 
  * @flags:  Calculates active flags
 
@@ -104,7 +104,7 @@ int print_pointer(va_list types, char buffer[],
 
  * @types: Lista of arguments
 
- * @buffer: Buffer array to handle print
+ * @buffer: Buffer array to any printed char
 
  * @flags:  Calculates active flags
 
@@ -177,7 +177,7 @@ int print_non_printable(va_list types, char buffer[],
 
  * @types: Lista of arguments
 
- * @buffer: Buffer array to handle print
+ * @buffer: Buffer array to any printed char
 
  * @flags:  Calculates active flags
 
@@ -256,7 +256,7 @@ int print_reverse(va_list types, char buffer[],
 
  * @types: Lista of arguments
 
- * @buffer: Buffer array to handle print
+ * @buffer: Buffer array to any printed char
 
  * @flags:  Calculates active flags
 
