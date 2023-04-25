@@ -98,7 +98,7 @@ int print_percent(va_list types, char buffer[],
         int flags, int width, int precision, int size);
 
 
-/* Functions to print numbers */
+/* Functions to print any numbers */
 
 int print_int(va_list types, char buffer[],
 
