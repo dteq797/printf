@@ -218,7 +218,7 @@ int print_hexa_upper(va_list types, char buffer[],
 
  * @map_to: Array of values to map the number to
 
- * @buffer: Buffer array to handle print
+ * @buffer: Buffer array to any printed char
 
  * @flags:  Calculates active flags
 
