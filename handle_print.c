@@ -10,7 +10,7 @@
 
  * @ind: ind.
 
- * @buffer: Buffer array to handle print.
+ * @buffer: Buffer array to any printed char.
 
  * @flags: Calculates active flags
 
